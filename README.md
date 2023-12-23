@@ -1,5 +1,6 @@
 ### Hi '-'
 
+I'm a Computer Engineering student at Federal University of Santa Maria, Brazil. 
 <!--
 **VitorDallabona/VitorDallabona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,7 @@ I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on th
    <p align="left">
       <a href="https://github.com/VitorDallabona?tab=followers">
          <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VitorDallabona?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/rodrigotriboni1?tab=repositories&sort=stargazers">
+      <a href="https://github.com/VitorDallabona?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VitorDallabona?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 

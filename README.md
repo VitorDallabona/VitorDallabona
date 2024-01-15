@@ -24,13 +24,17 @@ I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on th
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+<p>
   <img alt="Latex" src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" />
   <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white" />
+</p>
+<p>
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=PyCharm&logoColor=white" />
   <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -42,8 +46,6 @@ I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on th
 #
 
 <h3>My stats</h3>
-<div style="display: flex; flex-direction: row;"> <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=VitorDallabona&show_icons=true&theme=radical" /> </div>
-
-<div style="display: flex; flex-direction: row;"> <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDallabona&theme=radical&layout=compact" /> </div>
+<div style="display: flex; flex-direction: row;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=VitorDallabona&show_icons=true&theme=radical&layout=compact" /> <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDallabona&theme=radical&layout=compact" /> </div>
 
 #

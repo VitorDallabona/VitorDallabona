@@ -2,7 +2,7 @@
 **`Student`** 
 ### Hi there! 
 
-I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on the journey of pursuing a degree in Computer Engineering, at the Federal University of Santa Maria. Driven by a passion for challenges, I've found in programming my way to enhance and solve various problems, whether working collaboratively or on personal projects. My journey has led me to explore various technologies, including Python, C, C++, and JavaScript. With a curious and creative mind, translating ideas into code is my daily motivation, and I'm always eager to take on new challenges and contribute to the world of technology in an impactful way or build interesting projects.
+> I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on the journey of pursuing a degree in Computer Engineering, at the Federal University of Santa Maria. Driven by a passion for challenges, I've found in programming my way to enhance and solve various problems, whether working collaboratively or on personal projects. My journey has led me to explore various technologies, including Python, C, C++, and JavaScript. With a curious and creative mind, translating ideas into code is my daily motivation, and I'm always eager to take on new challenges and contribute to the world of technology in an impactful way or build interesting projects.
 
    <p align="left">
       <a href="https://github.com/VitorDallabona?tab=followers">
@@ -46,6 +46,8 @@ I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on th
 #
 
 <h3>My stats</h3>
-<div style="display: flex; flex-direction: row;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=VitorDallabona&show_icons=true&theme=radical&layout=compact" /> <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDallabona&theme=radical&layout=compact" /> </div>
+<div style="display: flex; flex-direction: row; height: 180em; width: 210em;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=VitorDallabona&show_icons=true&theme=dark&layout=compact" /></div>
+
+<div style="display: flex; flex-direction: row; height: 180em; width: 210em"> <img style="height: auto; width:46%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDallabona&theme=dark&layout=compact&show_icons=true" /> </div>
 
 #

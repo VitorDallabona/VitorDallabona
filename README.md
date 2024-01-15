@@ -1,5 +1,9 @@
 #  Vitor Dallabona
 **`Student`** 
+<a href="https://komarev.com/ghpvc/?username=VitorDallabona">
+  <img align="right" src="https://komarev.com/ghpvc/?username=VitorDallabona&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 ### Hi there! 
 
 > I'm Vitor Dallabona, a 20-year-old Brazilian enthusiast currently embarked on the journey of pursuing a degree in Computer Engineering, at the Federal University of Santa Maria. Driven by a passion for challenges, I've found in programming my way to enhance and solve various problems, whether working collaboratively or on personal projects. My journey has led me to explore various technologies, including Python, C, C++, and JavaScript. With a curious and creative mind, translating ideas into code is my daily motivation, and I'm always eager to take on new challenges and contribute to the world of technology in an impactful way or build interesting projects.

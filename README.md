@@ -48,6 +48,13 @@
 <p><a href="https://github.com/VitorDallabona" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> </a> <a href="https://www.linkedin.com/in/vitor-dallabona-951187299/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://www.instagram.com/vitordallabona/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" /></a>
 
 #
+<h3>Learninig</h3>
+
+[![DataScience badge](https://img.shields.io/badge/Data_Science-darkgreen.svg)](https://shields.io/)
+[![Physics badge](https://img.shields.io/badge/Physics-orange.svg)](https://shields.io/)
+
+
+#
 
 <h3>My stats</h3>
 <div style="display: flex; flex-direction: row; height: 180em; width: 210em;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=VitorDallabona&show_icons=true&theme=dark&layout=compact" /></div>

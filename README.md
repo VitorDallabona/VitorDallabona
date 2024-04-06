@@ -1,8 +1,6 @@
 #  Vitor Dallabona
 **`Student`** 
-<a href="https://komarev.com/ghpvc/?username=VitorDallabona">
-  <img align="right" src="https://komarev.com/ghpvc/?username=VitorDallabona&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 
 ### Hi there! 
 
@@ -59,6 +57,6 @@
 <h3>My stats</h3>
 <div style="display: flex; flex-direction: row; height: 180em; width: 210em;"> <img class="img" src="https://github-readme-stats.vercel.app/api?username=VitorDallabona&show_icons=true&theme=dark&layout=compact" /></div>
 
-<div style="display: flex; flex-direction: row; height: 180em; width: 210em"> <img style="height: auto; width:46%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDallabona&theme=dark&layout=compact&show_icons=true" /> </div>
+<!--<div style="display: flex; flex-direction: row; height: 180em; width: 210em"> <img style="height: auto; width:46%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDallabona&theme=dark&layout=compact&show_icons=true" /> </div>-->
 
 #

@@ -49,7 +49,7 @@
 <h3>Learninig</h3>
 
 [![DataScience badge](https://img.shields.io/badge/Data_Science-darkgreen.svg)](https://shields.io/)
-[![Physics badge](https://img.shields.io/badge/Physics-orange.svg)](https://shields.io/)
+[![Physics badge](https://img.shields.io/badge/Quantum_Computing-orange.svg)](https://shields.io/)
 
 
 #
